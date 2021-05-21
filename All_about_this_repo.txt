@@ -1,0 +1,14 @@
+Day 1:
+    > how to create vue app
+    >how to write data / method/ computed/ wather section work 
+    > v-bind: / v-on:event  
+    >v-once
+    >v-html
+    >event parameter pass in vue methods
+    >Event Modifiers
+    >What is vue reavtivity
+    >Dynamic Styling
+
+    End of Day 1
+
+    Thanks:)
