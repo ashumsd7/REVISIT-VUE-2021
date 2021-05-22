@@ -12,3 +12,14 @@ Day 1:
     End of Day 1
 
     Thanks:)
+
+Day 2A:
+
+	v-if
+	v-else
+	v-for
+	v-show
+	:key
+	
+	End of Day 2A 
+	Thanks: )
